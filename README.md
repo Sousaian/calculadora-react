@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+# 🧮 Calculadora React  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Uma aplicação de calculadora desenvolvida em **React**. Este projeto é ideal para quem deseja aprender ou praticar React, focando no gerenciamento de estado e na criação de componentes reutilizáveis. 🚀  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🎨 Demonstração  
 
-### `npm start`
+Acesse a calculadora online [aqui](#) _(adicione o link para o deploy caso disponível)_.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Calculadora Preview](https://via.placeholder.com/800x400?text=Adicione+uma+imagem+do+projeto+aqui)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tecnologias Utilizadas  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React:** Biblioteca JavaScript para construção de interfaces.  
+- **CSS:** Estilização da interface, com foco em design limpo e responsivo.  
+- **JavaScript:** Lógica da calculadora e funcionalidades interativas.  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚡ Funcionalidades  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Operações Matemáticas Básicas:** Soma, subtração, multiplicação e divisão.  
+- **Interface Responsiva:** Compatível com dispositivos móveis e desktops.  
+- **Botões Dinâmicos:** Interação fluida e amigável para o usuário.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Como Executar o Projeto  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Siga estas etapas para rodar a calculadora localmente:  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/Sousaian/calculadora-react.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Aqui está um README.md ideal para o repositório Calculadora React:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+md
+Copiar código
+# 🧮 Calculadora React  
 
-## Learn More
+Uma aplicação de calculadora desenvolvida em **React**. Este projeto é ideal para quem deseja aprender ou praticar React, focando no gerenciamento de estado e na criação de componentes reutilizáveis. 🚀  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🎨 Demonstração  
 
-### Code Splitting
+Acesse a calculadora online [aqui](#) _(adicione o link para o deploy caso disponível)_.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Calculadora Preview](https://via.placeholder.com/800x400?text=Adicione+uma+imagem+do+projeto+aqui)  
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🛠️ Tecnologias Utilizadas  
 
-### Making a Progressive Web App
+- **React:** Biblioteca JavaScript para construção de interfaces.  
+- **CSS:** Estilização da interface, com foco em design limpo e responsivo.  
+- **JavaScript:** Lógica da calculadora e funcionalidades interativas.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## ⚡ Funcionalidades  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Operações Matemáticas Básicas:** Soma, subtração, multiplicação e divisão.  
+- **Interface Responsiva:** Compatível com dispositivos móveis e desktops.  
+- **Botões Dinâmicos:** Interação fluida e amigável para o usuário.  
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🚀 Como Executar o Projeto  
 
-### `npm run build` fails to minify
+Siga estas etapas para rodar a calculadora localmente:  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/Sousaian/calculadora-react.git
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd calculadora-react
+3. Copiar código
+   ```bash
+   cd calculadora-react
+4. Instale as dependências:
+   ```bash
+   npm install
+5. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm start
+6. Acesse a aplicação em [http://localhost:3000]
